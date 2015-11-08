@@ -1,4 +1,4 @@
-package toms.lib.libtgviews;
+package toms.lib.libtgview;
 
 import android.content.Context;
 import android.graphics.Canvas;
@@ -7,7 +7,6 @@ import android.graphics.Paint;
 import android.graphics.Rect;
 import android.graphics.RectF;
 import android.os.Bundle;
-import android.os.Parcelable;
 import android.os.ResultReceiver;
 import android.text.Editable;
 import android.text.InputType;

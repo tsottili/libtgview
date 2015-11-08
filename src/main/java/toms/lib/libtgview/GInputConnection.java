@@ -1,4 +1,4 @@
-package toms.lib.libtgviews;
+package toms.lib.libtgview;
 
 /**
  * Created by toms on 26/10/14.

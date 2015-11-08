@@ -1,4 +1,4 @@
-package toms.lib.libtgviews;
+package toms.lib.libtgview;
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;

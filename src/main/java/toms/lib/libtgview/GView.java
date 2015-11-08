@@ -1,10 +1,9 @@
-package toms.lib.libtgviews;
+package toms.lib.libtgview;
 
 import android.content.Context;
 import android.graphics.Rect;
 import android.graphics.RectF;
 import android.support.annotation.NonNull;
-import android.text.InputType;
 import android.util.AttributeSet;
 import android.util.Log;
 import android.view.KeyEvent;

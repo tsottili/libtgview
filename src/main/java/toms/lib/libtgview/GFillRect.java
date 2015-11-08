@@ -1,4 +1,4 @@
-package toms.lib.libtgviews;
+package toms.lib.libtgview;
 
 /**
  * Created by toms on 23/07/14.
@@ -6,7 +6,6 @@ package toms.lib.libtgviews;
 
 import android.graphics.Canvas;
 import android.graphics.Paint;
-import android.graphics.Rect;
 import android.graphics.RectF;
 
 import java.io.DataInputStream;

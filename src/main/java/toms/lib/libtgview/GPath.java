@@ -1,4 +1,4 @@
-package toms.lib.libtgviews;
+package toms.lib.libtgview;
 
 import android.graphics.Canvas;
 import android.graphics.Paint;
